@@ -1,0 +1,4 @@
+C:\Users\juanz\OneDrive\Escritorio\Prueba\Tecnica\Tecnica\obj\Debug\net8.0\Tecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanz\OneDrive\Escritorio\Prueba\Tecnica\Tecnica\obj\Debug\net8.0\Tecnica.AssemblyInfoInputs.cache
+C:\Users\juanz\OneDrive\Escritorio\Prueba\Tecnica\Tecnica\obj\Debug\net8.0\Tecnica.AssemblyInfo.cs
+C:\Users\juanz\OneDrive\Escritorio\Prueba\Tecnica\Tecnica\obj\Debug\net8.0\Tecnica.csproj.CoreCompileInputs.cache
